@@ -1,20 +1,24 @@
 ## Project Name:  Seminole Weather Channel Application
 
 ### Course Title:
-LIS 2360:  Web Application Development
+Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+June 8 2017
 
 ### Student Name:  
-(First and Last Name)
+Adewale Salu
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this exercise, you will be enhancing an API-centric web application. An API-Centric web application is a web
+application that executes most, if not, all its functionality through the API calls. For this example, you will be
+making API calls using the Apixu API, which is a free web service that allows users to obtain weather data for
+developing weather apps. Apixu API is a RESTful API that uses JSON over HTTP for requests/returns and requires
+an API Key for authentication. Figure 1, is a preview of the Seminole Weather Channel you will extend. 
+
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://walesalu.github.io/weather-app/
 
 ### Lessons Learned in the Assignment:
 1. (Briefly describe a lesson/concept learned in this lesson.)
